@@ -1,6 +1,13 @@
+#Virtual environment
 env/
 
 settings.py
 
+#Cache
 *.pyc
 __pycache__/
+
+# Database #
+###############
+*.db
+*.sqlite3
